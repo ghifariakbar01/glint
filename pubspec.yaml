@@ -1,9 +1,9 @@
 name: glint
-description: "A new Flutter package project."
+description: "A glint/shimmer reusable widget that can help you display bring simple yet loading animation while keeping it's usage extremely simple."
 version: 0.0.1
-homepage: https://github.com/ghifariakbar01/glint
+homepage: https://pub.dev/packages/glint
 issue_tracker: https://github.com/ghifariakbar01/glint/issues
-# repository:
+repository: https://github.com/ghifariakbar01/glint
 topics:
   - loading
   - shimmer
