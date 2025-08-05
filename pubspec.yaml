@@ -1,0 +1,24 @@
+name: glint
+description: "A new Flutter package project."
+version: 0.0.1
+homepage: https://github.com/ghifariakbar01/glint
+issue_tracker: https://github.com/ghifariakbar01/glint/issues
+# repository:
+topics:
+  - loading
+  - shimmer
+  - skeleton
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+# flutter:
