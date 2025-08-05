@@ -1,6 +1,6 @@
 name: glint
 description: "A glint/shimmer reusable widget that can help you display bring simple yet loading animation while keeping it's usage extremely simple."
-version: 0.0.1
+version: 0.0.2
 homepage: https://pub.dev/packages/glint
 issue_tracker: https://github.com/ghifariakbar01/glint/issues
 repository: https://github.com/ghifariakbar01/glint
