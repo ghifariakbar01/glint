@@ -52,9 +52,9 @@ Container(
 ## Properties
 
 `Glint` requires following parameters:
-   - isLoading : true / false
-   - glintItem : an object of `GlintItem` to be displayed during loading
-   - isLoading : true / false
+   - `isLoading` : true / false
+   - `glintItem` : an object of `GlintItem` to be displayed during loading
+   - `isLoading` : true / false
 
 ### GlintItem
 
