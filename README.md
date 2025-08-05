@@ -14,7 +14,7 @@ flutter pub add glint
 Or manually add to your `pubspec.yml`
 
 ```bash
-glint: ^0.0.1
+glint: ^0.0.3
 ```
 
 ## Usage
@@ -54,7 +54,7 @@ Container(
 `Glint` requires following parameters:
    - `isLoading` : true / false
    - `glintItem` : an object of `GlintItem` to be displayed during loading
-   - `isLoading` : true / false
+   - `child` : child of the widget will be displayed when `isLoading` is false
 
 ### GlintItem
 
