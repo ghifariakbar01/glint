@@ -1,6 +1,6 @@
 # Glint
 
-This glint/shimmer reuasable widget can help you display bring simple yet loading animation while keeping it's usage extremely simple.
+This glint/shimmer reuasable widget can help you display bring simple yet nice-looking loading animation while keeping it's usage extremely simple.
 
 
 ## Installation
@@ -14,7 +14,7 @@ flutter pub add glint
 Or manually add to your `pubspec.yml`
 
 ```bash
-glint: ^0.0.3
+glint: ^0.0.4
 ```
 
 ## Usage
